@@ -1,2 +1,2 @@
 # pdlc-glasses-inference
-pdlc lecture 2
+ractical Deep Learning for Coders, chapter 2.
