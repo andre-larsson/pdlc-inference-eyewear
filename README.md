@@ -1,2 +1,2 @@
 # pdlc-glasses-inference
-ractical Deep Learning for Coders, chapter 2.
+Image classifier for Practical Deep Learning for Coders, chapter 2.
