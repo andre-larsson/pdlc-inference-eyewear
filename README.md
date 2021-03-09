@@ -1,2 +1,7 @@
-# pdlc-glasses-inference
-Another image classifier for Practical Deep Learning for Coders, chapter 2.
+# pdlc-inference-eyewear
+Image classifier based on Practical Deep Learning for Coders, chapter 2.
+
+## Links:
+https://course.fast.ai/
+https://github.com/fastai/fastbook
+https://docs.fast.ai/
