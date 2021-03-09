@@ -7,3 +7,5 @@ https://course.fast.ai/
 https://github.com/fastai/fastbook
 
 https://docs.fast.ai/
+
+ https://eyewear-detector.herokuapp.com/ 
